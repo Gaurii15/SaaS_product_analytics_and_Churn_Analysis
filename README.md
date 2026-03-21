@@ -80,7 +80,7 @@ The project uses multiple datasets:
 ---
 
 ### Churn Prediction Model
--Analyzed SaaS customer data to understand churn, engagement, and revenue patterns, and built a churn prediction model. Created dashboards and a customer health scoring system to generate actionable insights.
+- Analyzed SaaS customer data to understand churn, engagement, and revenue patterns, and built a churn prediction model. Created dashboards and a customer health scoring system to generate actionable insights.
 
 ---
 
