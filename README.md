@@ -174,9 +174,9 @@ Built 3 interactive dashboards:
 ## 👩‍💻 Author
 
 **Gauri Borse**  
-Aspiring Data Analyst  
+Aspiring Data Analyst and Business analyst
 
-🔗 LinkedIn: https://linkedin.com/in/YOUR-LINK  
+🔗 LinkedIn: https://www.linkedin.com/in/gauri-borse-a8146135b/
 
 ---
 
