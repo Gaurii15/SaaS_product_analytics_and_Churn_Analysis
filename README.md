@@ -98,7 +98,7 @@ Built 3 interactive dashboards:
 
 ### 🔹 Executive Overview
 
-![Executive Dashboard](images/executive.png)
+![Executive Dashboard](dashboards/executive.png)
 
 - Total Customers: 500  
 - Total ARR: 4 Billion  
@@ -114,7 +114,7 @@ Built 3 interactive dashboards:
 
 ### 🔹 Product Usage Dashboard
 
-![Usage Dashboard](images/usage.png)
+![Usage Dashboard](dashboards/usage.png)
 
 💡 **Insights:**
 - Most users are clustered in low usage range (0–5K)  
@@ -126,7 +126,7 @@ Built 3 interactive dashboards:
 
 ### 🔹 Customer Health & Churn Dashboard
 
-![Health Dashboard](images/health.png)
+![Health Dashboard](dashboards/health.png)
 
 💡 **Insights:**
 - Majority customers are classified as “At Risk”  
