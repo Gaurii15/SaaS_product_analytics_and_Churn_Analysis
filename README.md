@@ -188,6 +188,7 @@ Aspiring Data Analyst and Business analyst
 ## ⭐ Final Note
 
 This project demonstrates an end-to-end SaaS analytics workflow — from raw data processing to business insights — reflecting real-world product analytics practices.
+This analysis is based on a sample SaaS dataset (ravenstack) used for learning purposes.
 
 ---
 
